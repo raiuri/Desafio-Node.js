@@ -4,6 +4,8 @@ No arquivo `.env.example` na variável `DB_URI` É necessário adicionar uma uri
 
 Na variável `DB_URI` ainda no arquivo `.env.example` será necessário adicionar uma chave de sua preferência para aplicação.
 
+renomear o arquivo .env.example para .env
+
 Instalando as dependências
 
 dentro da pasta `cd Desafio-Node.js` execute o comando `Npm install`
